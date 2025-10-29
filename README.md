@@ -63,7 +63,5 @@ Sales_Data_Cleaning_Task/
 
 ---
 
-### ✅ Prepared By:
-**[Your Name]**  
-Data Analyst Intern Candidate
+
 
